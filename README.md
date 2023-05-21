@@ -1,5 +1,5 @@
-# Nihonium
-A bot for the TBGs
+# Platinum
+My Bot Will Be Your Judge!
 
 ### Required Files/Directories
 The bot requires four files and one directory not in the repository to run. These files are:
